@@ -72,10 +72,7 @@ INSERT INTO `books` (`idBook`, `name`, `isbn`, `idAuthor`) VALUES
 (8, 'Libro 8', 123987654, 1),
 (9, 'Libro 9', 987654321, 2),
 (12, 'Libro 10', 654321, 1),
-(13, 'Libro 11', 2147483647, 3),
-(21, 'Libro 11', 123000123, 4),
-(23, 'Libro 11', 123000124, 4),
-(25, 'Libro 11', 123000125, 4);
+(13, 'Libro 11', 2147483647, 3);
 
 --
 -- Índices para tablas volcadas
