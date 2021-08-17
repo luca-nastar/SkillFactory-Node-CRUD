@@ -42,9 +42,7 @@ INSERT INTO `authors` (`idAuthor`, `name`, `country`, `isActive`) VALUES
 (1, 'Author 1', 'Argentina', 1),
 (2, 'Author 2', 'España', 1),
 (3, 'Author 3', 'Uruguay', 1),
-(4, 'Author 4 ', 'Argentina', 1),
-(5, 'Cambiando', 'QueseYo', 0),
-(6, 'Probando2', 'QueseYo', 0);
+(4, 'Author 4 ', 'Argentina', 1);
 
 -- --------------------------------------------------------
 
