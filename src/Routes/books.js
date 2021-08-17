@@ -115,7 +115,7 @@ router.put("/books/:id", (req, res) => {
 			}
 			if (result.affectedRows === 0) {
 				return res
-					.status(204)
+					.status(200)
 					.json({ msg: `No hay un libro con el ID: ${id}` });
 			}
 
